@@ -15,10 +15,19 @@ export const GET = async (request) => {
             url: `${process.env.NEXT_PUBLIC_HOST_NAME}/images/fish/image_${i + 1}.jpg`
         }));
 
+
         const rnd = searchRandom === "true" ? true : false;
-        const lmt = parseInt(searchLimit) ? parseInt(searchLimit) : 100;
+        const lmt = parseInt(searchLimit) ? parseInt(searchLimit) : 10;
 
         const result = createRandomArray(data, lmt, rnd);
+
+        if (parseInt(searchLimit) > 10) {
+            return NextResponse.json({
+                message: "You can take a maximum of 10 data out of 100 data at the same time.",
+                data: result
+            }, { status: 206 });
+        }
+
 
         return NextResponse.json({
             message: "Data fetched successfully.",

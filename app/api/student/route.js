@@ -20,6 +20,13 @@ export const GET = async (request) => {
 
         const result = createRandomArray(data, lmt, rnd);
 
+        if (parseInt(searchLimit) > 10) {
+            return NextResponse.json({
+                message: "You can take a maximum of 10 data out of 100 data at the same time.",
+                data: result
+            }, { status: 206 });
+        }
+
         return NextResponse.json({
             message: "Data fetched successfully.",
             data: result
