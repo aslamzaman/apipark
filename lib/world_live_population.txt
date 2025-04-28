@@ -1,0 +1,155 @@
+import axios from "axios";
+import * as cheerio from 'cheerio';
+
+
+export const countryName = async () => {
+
+    const { data } = await axios.get("https://www.worldometers.info/population/");
+    const $ = cheerio.load(data);
+
+    const listSet = [];
+
+    $('ul li a').each((i, row) => {
+        const name = $(row).text().trim();
+        const searchName = $(row).attr('data-country');
+        listSet.push({ name, searchName })
+    })
+
+    const result = listSet.filter(country => country.searchName);
+    return result;
+
+}
+
+
+export const populationByCountry = async (country) => {
+    const url = `https://www.worldometers.info/world-population/${country}-population/`;
+
+    const { data } = await axios.get(url);
+    const $ = cheerio.load(data);
+
+    const tableRows = [];
+
+    $('table').each((i, tbl) => {
+        $(tbl).addClass(`mytable${i + 1}`);
+    });
+
+    $('table.mytable1 tr').each((i, row) => {
+        const rowData = [];
+        $(row).find('td').each((j, cell) => {
+            rowData.push($(cell).text().trim());
+        });
+
+        if (rowData.length) {
+            tableRows.push(rowData);
+        }
+    })
+
+    const result = tableRows.map((item, i) => {
+        return {
+            year: item[0],
+            population: item[1],
+            yearlyChangePercent: item[2],
+            yearlyChange: item[3],
+            mygrants: item[4],
+            medianAge: item[5],
+            fertilityRate: item[6],
+            dencityPerKm: item[7],
+            urbanPercent: item[8],
+            urbanPopulation: item[9],
+            shareOfPopulation: item[10],
+            worldPopulation: item[11],
+            rank: item[12]
+        }
+    })
+    return result;
+
+
+}
+
+
+export const forecasetByCountry = async (country) => {
+    const url = `https://www.worldometers.info/world-population/${country}-population/`;
+
+    const { data } = await axios.get(url);
+    const $ = cheerio.load(data);
+
+    const tableRows = [];
+
+    $('table').each((i, tbl) => {
+        $(tbl).addClass(`mytable${i + 1}`);
+    });
+
+    $('table.mytable2 tr').each((i, row) => {
+        const rowData = [];
+        $(row).find('td').each((j, cell) => {
+            rowData.push($(cell).text().trim());
+        });
+
+        if (rowData.length) {
+            tableRows.push(rowData);
+        }
+    })
+
+    const result = tableRows.map((item, i) => {
+        return {
+            year: item[0],
+            population: item[1],
+            yearlyChangePercent: item[2],
+            yearlyChange: item[3],
+            mygrants: item[4],
+            medianAge: item[5],
+            fertilityRate: item[6],
+            dencityPerKm: item[7],
+            urbanPercent: item[8],
+            urbanPopulation: item[9],
+            shareOfPopulation: item[10],
+            worldPopulation: item[11],
+            rank: item[12]
+        }
+    })
+    return result;
+
+
+}
+
+
+
+export const summaryByCountry = async (country) => {
+    const url = `https://www.worldometers.info/world-population/${country}-population/`;
+
+    const { data } = await axios.get(url);
+    const $ = cheerio.load(data);
+
+    $('ul').each((i, lst) => {
+        $(lst).addClass(`myLst${i + 1}`);
+    })
+
+    const summaryData = [];
+    $('ul.myLst4 li').each((i, row) => {
+        summaryData.push({title: $(row).text()});
+    })
+
+    return summaryData;
+}
+
+/* 
+import { countryName, populationByCountry, forecasetByCountry, summaryByCountry } from "@/lib/world_live_population";
+
+const dd = async () => {
+  try {
+    const [country, population, forecast, summary ] = await Promise.all([
+      countryName(),
+      populationByCountry('bangladesh'),
+      forecasetByCountry('bangladesh'),
+      summaryByCountry('bangladesh')
+    ]);
+    console.log({ country, population, forecast, summary });
+    return {country, population, forecast, summary }
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+*/
+
+

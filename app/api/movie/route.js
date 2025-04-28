@@ -1,19 +1,24 @@
-
 import { NextResponse } from 'next/server';
-import { dateFormat } from '@/lib/utils';
+import axios from "axios";
+import * as cheerio from 'cheerio';
+import { bollywood, compile } from '@/lib/movie/bollywoodOne';
+
 
 
 
 export const GET = async (request) => {
     try {
-        const searchParams = request.nextUrl.searchParams;
-        const searchDate = searchParams.get('date');
-        const searchValue = searchParams.get('format');
-        const result = dateFormat(searchDate, searchValue);
+
+        const arr = await compile(2025);
+
+       
+        console.log(arr)
+
+
 
         const response = NextResponse.json({
             message: "Data fetched successfully.",
-            data: result
+            data: arr
         }, { status: 200 });
 
         response.headers.set('Access-Control-Allow-Origin', '*');

@@ -1,20 +1,15 @@
-
+import { sortArray } from '@/lib/utils';
 import { NextResponse } from 'next/server';
-import { dateFormat } from '@/lib/utils';
-
 
 
 export const GET = async (request) => {
     try {
-        const searchParams = request.nextUrl.searchParams;
-        const searchDate = searchParams.get('date');
-        const searchValue = searchParams.get('format');
-        const result = dateFormat(searchDate, searchValue);
-
-        const response = NextResponse.json({
-            message: "Data fetched successfully.",
-            data: result
-        }, { status: 200 });
+        const res = await fetch(`${process.env.NEXT_PUBLIC_HOST_NAME}/movie/upcoming/us.json`);
+        const jsonData = await res.json();
+        const sortData = jsonData.sort((a, b)=>sortArray(a.id, b.id));
+        const lastToHunderd = sortData.slice(-100);
+     
+        const response = NextResponse.json(lastToHunderd);
 
         response.headers.set('Access-Control-Allow-Origin', '*');
         response.headers.set('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
