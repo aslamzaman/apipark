@@ -1,6 +1,5 @@
 [
     {
-        "name": "Sinners",
         "url": "https://www.imdb.com/title/tt31193180/?ref_=chtmvm_t_1",
         "writers": [
             "Ryan Coogler"
@@ -40,10 +39,10 @@
         "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg",
         "rating": "8.2",
-        "trailer": "https://www.imdb.com/video/vi2383464729/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2383464729/?ref_=tt_vids_vi_t_1",
+        "title": "Sinners"
     },
     {
-        "name": "Havoc",
         "url": "https://www.imdb.com/title/tt14123284/?ref_=chtmvm_t_2",
         "writers": [
             "Gareth Evans"
@@ -86,10 +85,10 @@
         "description": "After a drug deal gone wrong, a bruised detective must fight his way through the criminal underworld to rescue a politician's estranged son, unraveling a deep web of corruption and conspiracy that ensnares his entire city.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZWJjMjdhNGEtZjEyMi00OTg2LTllMzQtN2JlZWNjYzI4YzFhXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.8",
-        "trailer": "https://www.imdb.com/video/vi474401049/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi474401049/?ref_=tt_vids_vi_t_1",
+        "title": "Havoc"
     },
     {
-        "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/?ref_=chtmvm_t_3",
         "writers": [
             "Peter Straughan",
@@ -126,10 +125,10 @@
         "description": "When Cardinal Lawrence is tasked with leading one of the world's most secretive and ancient events, selecting a new Pope, he finds himself at the center of a web of conspiracies and intrigue that could shake the very foundation of the Catholic Church.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.4",
-        "trailer": "https://www.imdb.com/video/vi659473945/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi659473945/?ref_=tt_vids_vi_t_1",
+        "title": "Conclave"
     },
     {
-        "name": "A Minecraft Movie",
         "url": "https://www.imdb.com/title/tt3566834/?ref_=chtmvm_t_4",
         "writers": [
             "Chris Bowman",
@@ -174,10 +173,10 @@
         "description": "Four misfits are suddenly pulled through a mysterious portal into a bizarre cubic wonderland that thrives on imagination. To get back home they'll have to master this world while embarking on a quest with an unexpected expert crafter.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.9",
-        "trailer": "https://www.imdb.com/video/vi4218865945/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi4218865945/?ref_=tt_vids_vi_t_1",
+        "title": "A Minecraft Movie"
     },
     {
-        "name": "The Accountant 2",
         "url": "https://www.imdb.com/title/tt7068946/?ref_=chtmvm_t_5",
         "writers": [
             "Bill Dubuque"
@@ -216,10 +215,10 @@
         "description": "Christian Wolff applies his brilliant mind and illegal methods to reconstruct the unsolved puzzle of a Treasury chief's murder.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjFiY2I0NTEtNjdjNy00MTljLThkOWYtMzNiYjYyMDcxYjhkXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.2",
-        "trailer": "https://www.imdb.com/video/vi968280089/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi968280089/?ref_=tt_vids_vi_t_1",
+        "title": "The Accountant 2"
     },
     {
-        "name": "Warfare",
         "url": "https://www.imdb.com/title/tt31434639/?ref_=chtmvm_t_6",
         "writers": [
             "Ray Mendoza",
@@ -259,10 +258,10 @@
         "description": "A platoon of Navy SEALs embark on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYzEyYjE1NmEtOTFmNy00ZmQxLThlYzctOGRjNmQ0N2VjMmNmXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.8",
-        "trailer": "https://www.imdb.com/video/vi3049441561/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3049441561/?ref_=tt_vids_vi_t_1",
+        "title": "Warfare"
     },
     {
-        "name": "Predator: Badlands",
         "url": "https://www.imdb.com/title/tt31227572/?ref_=chtmvm_t_7",
         "writers": [
             "Patrick Aison",
@@ -283,10 +282,10 @@
         "description": "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTgxMzllM2YtZDMyNS00YmJlLWE4MGEtNDNjZTA5YjAwNzgwXkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi3015231513/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3015231513/?ref_=tt_vids_vi_t_1",
+        "title": "Predator: Badlands"
     },
     {
-        "name": "Snow White",
         "url": "https://www.imdb.com/title/tt6208148/?ref_=chtmvm_t_8",
         "writers": [
             "Erin Cressida Wilson",
@@ -328,10 +327,10 @@
         "description": "A princess joins forces with seven dwarfs and a group of rebels to liberate her kingdom from her cruel stepmother the Evil Queen.",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2UwOGUxMzEtMzEyZi00NjEwLTkxOTMtYTljOWEzYjYyMWNjXkEyXkFqcGc@._V1_.jpg",
         "rating": "1.6",
-        "trailer": "https://www.imdb.com/video/vi1099417881/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1099417881/?ref_=tt_vids_vi_t_1",
+        "title": "Snow White"
     },
     {
-        "name": "Thunderbolts*",
         "url": "https://www.imdb.com/title/tt20969586/?ref_=chtmvm_t_9",
         "writers": [
             "Eric Pearson",
@@ -374,10 +373,10 @@
         "description": "After finding themselves ensnared in a death trap, an unconventional team of antiheroes must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNDIzNGUwZmYtODM0Yy00NjA3LTgxOGUtOTY0ZGM5MjBkM2I3XkEyXkFqcGc@._V1_.jpg",
         "rating": "7.8",
-        "trailer": "https://www.imdb.com/video/vi2242955289/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2242955289/?ref_=tt_vids_vi_t_1",
+        "title": "Thunderbolts*"
     },
     {
-        "name": "Until Dawn",
         "url": "https://www.imdb.com/title/tt30955489/?ref_=chtmvm_t_10",
         "writers": [
             "Blair Butler",
@@ -418,10 +417,10 @@
         "description": "A group of friends trapped in a time loop, where mysterious foes chase and kill them in gruesome ways, must survive until dawn to escape it.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZWU4NDY0ODktOGI3OC00NWE1LWIwYmQtNmJiZWU3NmZlMDhkXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.0",
-        "trailer": "https://www.imdb.com/video/vi1057474841/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1057474841/?ref_=tt_vids_vi_t_1",
+        "title": "Until Dawn"
     },
     {
-        "name": "Companion",
         "url": "https://www.imdb.com/title/tt26584495/?ref_=chtmvm_t_11",
         "writers": [
             "Drew Hancock"
@@ -452,10 +451,10 @@
         "description": "A weekend getaway with friends at a remote cabin turns into chaos after it's revealed that one of the guests is not what they seem.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjkyZTA5NzAtYWU3Zi00MWM4LTgxNzAtNDQxY2JmNjMwYjk4XkEyXkFqcGc@._V1_.jpg",
         "rating": "6.9",
-        "trailer": "https://www.imdb.com/video/vi1262012697/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1262012697/?ref_=tt_vids_vi_t_1",
+        "title": "Companion"
     },
     {
-        "name": "Ash",
         "url": "https://www.imdb.com/title/tt17489650/?ref_=chtmvm_t_12",
         "writers": [
             "Jonni Remmler"
@@ -486,10 +485,10 @@
         "description": "A woman wakes up on a distant planet and finds the crew of her space station viciously killed. Her investigation into what happened sets in motion a terrifying chain of events.",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTYwZDE3ZDctOTc2Mi00MWIyLWFmMjctZTJmNzNmMjZkOTI0XkEyXkFqcGc@._V1_.jpg",
         "rating": "4.7",
-        "trailer": "https://www.imdb.com/video/vi991152409/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi991152409/?ref_=tt_vids_vi_t_1",
+        "title": "Ash"
     },
     {
-        "name": "The Fantastic Four: First Steps",
         "url": "https://www.imdb.com/title/tt10676052/?ref_=chtmvm_t_13",
         "writers": [
             "Peter Cameron",
@@ -523,10 +522,10 @@
         "description": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2U5MjM2MWEtYTU2ZC00YjkyLWE2ZTctYzI1ZDI3Y2IzNGVkXkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi2494679065/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2494679065/?ref_=tt_vids_vi_t_1",
+        "title": "The Fantastic Four: First Steps"
     },
     {
-        "name": "iHostage",
         "url": "https://www.imdb.com/title/tt31181421/?ref_=chtmvm_t_14",
         "writers": [
             "Bobby Boermans",
@@ -563,10 +562,10 @@
         "description": "When a gunman enters an Apple Store in the heart of Amsterdam, the police face a delicate challenge to resolve the standoff. Based on true events.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMGEyNWI4NjctY2NkYS00ZDY0LTkyNTUtOGRhM2UzNWYxOTc2XkEyXkFqcGc@._V1_.jpg",
         "rating": "5.7",
-        "trailer": "https://www.imdb.com/video/vi928106777/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi928106777/?ref_=tt_vids_vi_t_1",
+        "title": "iHostage"
     },
     {
-        "name": "The Amateur",
         "url": "https://www.imdb.com/title/tt0899043/?ref_=chtmvm_t_15",
         "writers": [
             "Ken Nolan",
@@ -604,10 +603,10 @@
         "description": "When his supervisors at the CIA refuse to take action after his wife is killed in a London terrorist attack, a decoder takes matters into his own hands.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjhkZjM3ZWYtMjUxMS00YzhlLTkxZWYtMzhkMzFhOTQ1NjRkXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.7",
-        "trailer": "https://www.imdb.com/video/vi479381785/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi479381785/?ref_=tt_vids_vi_t_1",
+        "title": "The Amateur"
     },
     {
-        "name": "The Accountant",
         "url": "https://www.imdb.com/title/tt2140479/?ref_=chtmvm_t_16",
         "writers": [
             "Bill Dubuque"
@@ -647,10 +646,10 @@
         "description": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities, and the body count starts to rise.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNDc5Mzg2NTYxNV5BMl5BanBnXkFtZTgwMjQ2ODAwOTE@._V1_.jpg",
         "rating": "7.3",
-        "trailer": "https://www.imdb.com/video/vi2433726233/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2433726233/?ref_=tt_vids_vi_t_1",
+        "title": "The Accountant"
     },
     {
-        "name": "I Know What You Did Last Summer",
         "url": "https://www.imdb.com/title/tt4045450/?ref_=chtmvm_t_17",
         "writers": [
             "Jennifer Kaytin Robinson",
@@ -687,10 +686,10 @@
         "description": "A group of friends is terrorized by a stalker who knows about a gruesome incident from their past.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDYwNDcwMWUtNjNhNi00N2ZhLWE1MzItMjg3MDg2MGI0ZjNiXkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi565692441/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi565692441/?ref_=tt_vids_vi_t_1",
+        "title": "I Know What You Did Last Summer"
     },
     {
-        "name": "Mickey 17",
         "url": "https://www.imdb.com/title/tt12299608/?ref_=chtmvm_t_18",
         "writers": [
             "Bong Joon Ho",
@@ -731,10 +730,10 @@
         "description": "During a human expedition to colonize space, Mickey 17, a so-called \"expendable\" employee, is sent to explore an ice planet.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZGQwYmEzMzktYzBmMy00NmVmLTkyYTUtOTYyZjliZDNhZGVkXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.8",
-        "trailer": "https://www.imdb.com/video/vi237619481/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi237619481/?ref_=tt_vids_vi_t_1",
+        "title": "Mickey 17"
     },
     {
-        "name": "A Working Man",
         "url": "https://www.imdb.com/title/tt9150192/?ref_=chtmvm_t_19",
         "writers": [
             "Chuck Dixon",
@@ -773,10 +772,10 @@
         "description": "Levon Cade left his profession behind to work construction and be a good dad to his daughter. But when a local girl vanishes, he's asked to return to the skills that made him a mythic figure in the shadowy world of counter-terrorism.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYmQxZGIxNTYtYTQwMy00ODdkLWI0MmQtM2E0ZmIyNmYzMGMzXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.8",
-        "trailer": "https://www.imdb.com/video/vi1331087641/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1331087641/?ref_=tt_vids_vi_t_1",
+        "title": "A Working Man"
     },
     {
-        "name": "Locked",
         "url": "https://www.imdb.com/title/tt26671996/?ref_=chtmvm_t_20",
         "writers": [
             "Michael Arlen Ross",
@@ -813,10 +812,10 @@
         "description": "A thief breaking into a luxury SUV realizes that he has slipped into a sophisticated game of psychological horror.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjg2NDFhZDEtYzZlZC00ZTRkLTg4NDctYjIwNTQxYWY4ODFiXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.8",
-        "trailer": "https://www.imdb.com/video/vi1595132185/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1595132185/?ref_=tt_vids_vi_t_1",
+        "title": "Locked"
     },
     {
-        "name": "Drop",
         "url": "https://www.imdb.com/title/tt32149847/?ref_=chtmvm_t_21",
         "writers": [
             "Jillian Jacobs",
@@ -852,10 +851,10 @@
         "description": "A widowed mother's first date in years takes a terrifying turn when she's bombarded with anonymous threatening messages on her phone during their upscale dinner, leaving her questioning if her charming date is behind the harassment.",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWUyOTNlMjItNWUyZC00ZGJiLTg3MDMtODJmMGQyMGY3NzU3XkEyXkFqcGc@._V1_.jpg",
         "rating": "6.3",
-        "trailer": "https://www.imdb.com/video/vi1649920281/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1649920281/?ref_=tt_vids_vi_t_1",
+        "title": "Drop"
     },
     {
-        "name": "Babygirl",
         "url": "https://www.imdb.com/title/tt30057084/?ref_=chtmvm_t_22",
         "writers": [
             "Halina Reijn"
@@ -893,10 +892,10 @@
         "description": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much-younger intern.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMmUwODYwODAtYWZkZS00YmUwLWFmMWEtOGNjMjE2NDk3OWIwXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.9",
-        "trailer": "https://www.imdb.com/video/vi1788397849/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1788397849/?ref_=tt_vids_vi_t_1",
+        "title": "Babygirl"
     },
     {
-        "name": "Anora",
         "url": "https://www.imdb.com/title/tt28607951/?ref_=chtmvm_t_23",
         "writers": [
             "Sean Baker"
@@ -935,10 +934,10 @@
         "description": "A young stripper from Brooklyn meets and impulsively marries the son of a Russian oligarch. Once the news reaches Russia, her fairy tale is threatened as his parents set out for New York to get the marriage annulled.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_.jpg",
         "rating": "7.5",
-        "trailer": "https://www.imdb.com/video/vi944621081/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi944621081/?ref_=tt_vids_vi_t_1",
+        "title": "Anora"
     },
     {
-        "name": "G20",
         "url": "https://www.imdb.com/title/tt23476986/?ref_=chtmvm_t_24",
         "writers": [
             "Caitlin Parrish",
@@ -975,10 +974,10 @@
         "description": "Terrorists take over the G20 summit with President Sutton, bringing her governing and military experience to defend her family, company, and the world.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MTg3MTEtNzQwMi00Y2VkLWI4N2UtNDdmMzFjMGIyNTEzXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.1",
-        "trailer": "https://www.imdb.com/video/vi407292185/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi407292185/?ref_=tt_vids_vi_t_1",
+        "title": "G20"
     },
     {
-        "name": "Black Bag",
         "url": "https://www.imdb.com/title/tt30988739/?ref_=chtmvm_t_25",
         "writers": [
             "David Koepp"
@@ -1016,10 +1015,10 @@
         "description": "When intelligence agent Kathryn Woodhouse is suspected of betraying the nation, her husband - also a legendary agent - faces the ultimate test of whether to be loyal to his marriage, or his country.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzA1OWU4NDMtMDUxMC00NWI4LWJhYjUtYWQ0OGQ5MTc2NDRjXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.8",
-        "trailer": "https://www.imdb.com/video/vi2093271321/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2093271321/?ref_=tt_vids_vi_t_1",
+        "title": "Black Bag"
     },
     {
-        "name": "The King of Kings",
         "url": "https://www.imdb.com/title/tt7967302/?ref_=chtmvm_t_26",
         "writers": [
             "Seong-ho Jang",
@@ -1057,10 +1056,10 @@
         "description": "Through a father's vivid storytelling, a boy journeys through Jesus' life, from humble beginnings to ultimate sacrifice. Along the way, he discovers the transformative power of faith.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDhkZDE5NmUtZDI1Ny00MDQxLWFjMzEtMWM4YTFmNTIyMTJjXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.5",
-        "trailer": "https://www.imdb.com/video/vi1918355737/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1918355737/?ref_=tt_vids_vi_t_1",
+        "title": "The King of Kings"
     },
     {
-        "name": "28 Years Later",
         "url": "https://www.imdb.com/title/tt10548174/?ref_=chtmvm_t_27",
         "writers": [
             "Danny Boyle",
@@ -1097,10 +1096,10 @@
         "description": "A group of survivors of the rage virus lives on a small island. When one of the group leaves the island on a mission into the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjgwYTI0YjctMWYzNS00MmI1LWI5YTctNmE1YjBkNDFlNWMxXkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi2545010713/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2545010713/?ref_=tt_vids_vi_t_1",
+        "title": "28 Years Later"
     },
     {
-        "name": "Captain America: Brave New World",
         "url": "https://www.imdb.com/title/tt14513804/?ref_=chtmvm_t_28",
         "writers": [
             "Rob Edwards",
@@ -1142,10 +1141,10 @@
         "description": "Sam Wilson, the new Captain America, finds himself in the middle of an international incident and must discover the motive behind a nefarious global plan.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_.jpg",
         "rating": "5.8",
-        "trailer": "https://www.imdb.com/video/vi1185794329/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1185794329/?ref_=tt_vids_vi_t_1",
+        "title": "Captain America: Brave New World"
     },
     {
-        "name": "Gladiator II",
         "url": "https://www.imdb.com/title/tt9218128/?ref_=chtmvm_t_29",
         "writers": [
             "David Franzoni",
@@ -1188,10 +1187,10 @@
         "description": "After his home is conquered by the tyrannical emperors who now lead Rome, Lucius is forced to enter the Colosseum and must look to his past to find strength to return the glory of Rome to its people.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_.jpg",
         "rating": "6.5",
-        "trailer": "https://www.imdb.com/video/vi3650537753/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3650537753/?ref_=tt_vids_vi_t_1",
+        "title": "Gladiator II"
     },
     {
-        "name": "Pride & Prejudice",
         "url": "https://www.imdb.com/title/tt0414387/?ref_=chtmvm_t_30",
         "writers": [
             "Deborah Moggach",
@@ -1232,10 +1231,10 @@
         "description": "When Elizabeth Bennet meets the handsome Mr. Darcy, she believes he is the last man she could ever marry, but as their lives become intertwined, she finds herself captivated by the man she has sworn to hate forever.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg",
         "rating": "7.8",
-        "trailer": "https://www.imdb.com/video/vi2875771161/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2875771161/?ref_=tt_vids_vi_t_1",
+        "title": "Pride & Prejudice"
     },
     {
-        "name": "The Order",
         "url": "https://www.imdb.com/title/tt26625693/?ref_=chtmvm_t_31",
         "writers": [
             "Zach Baylin",
@@ -1275,10 +1274,10 @@
         "description": "A series of bank robberies and car heists frightened communities in the Pacific Northwest. A lone FBI agent believes that the crimes were not the work of financially motivated criminals, but rather a group of dangerous domestic terrorists.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZWIxOGQyYjYtOGEwOC00YWNjLWJmNTktZjJlM2RmNTdjMmVlXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.8",
-        "trailer": "https://www.imdb.com/video/vi1498334745/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1498334745/?ref_=tt_vids_vi_t_1",
+        "title": "The Order"
     },
     {
-        "name": "Freaky Tales",
         "url": "https://www.imdb.com/title/tt21942598/?ref_=chtmvm_t_32",
         "writers": [
             "Anna Boden",
@@ -1318,10 +1317,10 @@
         "description": "Four interconnected stories set in 1987 Oakland, CA. will tell about the love of music, movies, people, places and memories beyond our knowable universe.",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTYyNmYyN2EtYTFjNS00ZWY5LWJiZmMtNTk5N2MyYzkzMDhmXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.4",
-        "trailer": "https://www.imdb.com/video/vi3490433305/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3490433305/?ref_=tt_vids_vi_t_1",
+        "title": "Freaky Tales"
     },
     {
-        "name": "The Passion of the Christ",
         "url": "https://www.imdb.com/title/tt0335345/?ref_=chtmvm_t_33",
         "writers": [
             "Benedict Fitzgerald",
@@ -1358,10 +1357,10 @@
         "description": "Depicts the final twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzMxY2Y4MzktMGNkNC00ODFjLWI3MGMtMzM2M2ExNmQxMGFmXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.2",
-        "trailer": "https://www.imdb.com/video/vi49807641/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi49807641/?ref_=tt_vids_vi_t_1",
+        "title": "The Passion of the Christ"
     },
     {
-        "name": "A Complete Unknown",
         "url": "https://www.imdb.com/title/tt11563598/?ref_=chtmvm_t_34",
         "writers": [
             "James Mangold",
@@ -1402,10 +1401,10 @@
         "description": "In 1961, an unknown 19-year-old Bob Dylan arrives in New York City with his guitar and forges relationships with musical icons on his meteoric rise, culminating in a groundbreaking performance that reverberates around the world.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.4",
-        "trailer": "https://www.imdb.com/video/vi2538325529/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2538325529/?ref_=tt_vids_vi_t_1",
+        "title": "A Complete Unknown"
     },
     {
-        "name": "The Life List",
         "url": "https://www.imdb.com/title/tt2172954/?ref_=chtmvm_t_35",
         "writers": [
             "Adam Brooks",
@@ -1444,10 +1443,10 @@
         "description": "A woman revisits her childhood aspirations, endeavoring to achieve her old goals, only to discover that pursuing these lifelong dreams takes her on an unforeseen and surprising journey.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjNhNzUyMTQtYTFiZS00NzM2LWI3YTgtZmI1ZTA1MDUzMzBhXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.8",
-        "trailer": "https://www.imdb.com/video/vi3020802329/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3020802329/?ref_=tt_vids_vi_t_1",
+        "title": "The Life List"
     },
     {
-        "name": "Bullet Train Explosion",
         "url": "https://www.imdb.com/title/tt33452974/?ref_=chtmvm_t_36",
         "writers": [
             "Kazuhiro Nakagawa",
@@ -1486,10 +1485,10 @@
         "description": "A group who straps bombs to a Japanese bullet train in an attempt to extort money from the government.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTVhMGM1NTYtMmI0MC00NjA2LTljMmUtYmJiNmZkMDVhMTIxXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.3",
-        "trailer": "https://www.imdb.com/video/vi2690631961/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2690631961/?ref_=tt_vids_vi_t_1",
+        "title": "Bullet Train Explosion"
     },
     {
-        "name": "Novocaine",
         "url": "https://www.imdb.com/title/tt29603959/?ref_=chtmvm_t_37",
         "writers": [
             "Lars Jacobson"
@@ -1529,10 +1528,10 @@
         "description": "When the girl of his dreams is kidnapped, a man incapable of feeling physical pain turns his rare condition into an unexpected advantage in the fight to rescue her.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU4MmUxODktMWUwYy00YzM0LTg1ZmItNzVlMTZhOWVlNWFjXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.5",
-        "trailer": "https://www.imdb.com/video/vi493144345/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi493144345/?ref_=tt_vids_vi_t_1",
+        "title": "Novocaine"
     },
     {
-        "name": "Nosferatu",
         "url": "https://www.imdb.com/title/tt5040012/?ref_=chtmvm_t_38",
         "writers": [
             "Robert Eggers",
@@ -1573,10 +1572,10 @@
         "description": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.2",
-        "trailer": "https://www.imdb.com/video/vi1732429337/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1732429337/?ref_=tt_vids_vi_t_1",
+        "title": "Nosferatu"
     },
     {
-        "name": "The Substance",
         "url": "https://www.imdb.com/title/tt17526714/?ref_=chtmvm_t_39",
         "writers": [
             "Coralie Fargeat"
@@ -1617,10 +1616,10 @@
         "description": "A fading celebrity takes a black-market drug: a cell-replicating substance that creates a younger, better version of herself.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.3",
-        "trailer": "https://www.imdb.com/video/vi2758919705/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2758919705/?ref_=tt_vids_vi_t_1",
+        "title": "The Substance"
     },
     {
-        "name": "The Gorge",
         "url": "https://www.imdb.com/title/tt13654226/?ref_=chtmvm_t_40",
         "writers": [
             "Zach Dean"
@@ -1660,10 +1659,10 @@
         "description": "Two highly-trained operatives become close after being sent to protect opposite sides of a mysterious gorge. When an evil emerges, they must work together to survive what lies within.",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5Y2QyYTktYmFmZi00NWJlLWE0MzgtYTA4M2I0ZjQwZjcxXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.7",
-        "trailer": "https://www.imdb.com/video/vi2559363353/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2559363353/?ref_=tt_vids_vi_t_1",
+        "title": "The Gorge"
     },
     {
-        "name": "Virgin Territory",
         "url": "https://www.imdb.com/title/tt0437954/?ref_=chtmvm_t_41",
         "writers": [
             "David Leland"
@@ -1702,10 +1701,10 @@
         "description": "Young Florentines take refuge from the black plague and engage in bawdy adventures and lusty exchanges.",
         "poster": "https://m.media-amazon.com/images/M/MV5BOGExNjZmZWYtNDdjNi00YWNjLWJmZjItMzY2NDkyODEzYjZjXkEyXkFqcGc@._V1_.jpg",
         "rating": "4.7",
-        "trailer": "https://www.imdb.com/video/vi1524236569/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1524236569/?ref_=tt_vids_vi_t_1",
+        "title": "Virgin Territory"
     },
     {
-        "name": "The Hunger Games: Sunrise on the Reaping",
         "url": "https://www.imdb.com/title/tt32558705/?ref_=chtmvm_t_42",
         "writers": [
             "Billy Ray",
@@ -1731,10 +1730,10 @@
         ],
         "poster": "https://m.media-amazon.com/images/M/MV5BZTU1MzU1YzctMDQ1MS00ZmRhLWFkZmYtZmNjM2YwYzIwMDgxXkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": ""
+        "trailer": "",
+        "title": "The Hunger Games: Sunrise on the Reaping"
     },
     {
-        "name": "The Electric State",
         "url": "https://www.imdb.com/title/tt7766378/?ref_=chtmvm_t_43",
         "writers": [
             "Christopher Markus",
@@ -1780,10 +1779,10 @@
         "description": "An orphaned teen hits the road with a mysterious robot to find her long-lost brother, teaming up with a smuggler and his wisecracking sidekick.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDU5YWE3MmItMGI0Ny00MWQ4LWE3NDktMjRkNDk5YmFjYTk2XkEyXkFqcGc@._V1_.jpg",
         "rating": "5.9",
-        "trailer": "https://www.imdb.com/video/vi2725955865/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2725955865/?ref_=tt_vids_vi_t_1",
+        "title": "The Electric State"
     },
     {
-        "name": "Mission: Impossible - The Final Reckoning",
         "url": "https://www.imdb.com/title/tt9603208/?ref_=chtmvm_t_44",
         "writers": [
             "Bruce Geller",
@@ -1822,10 +1821,10 @@
         "description": "Our lives are the sum of our choices. Tom Cruise is Ethan Hunt in Mission: Impossible - The Final Reckoning.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi4064659737/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi4064659737/?ref_=tt_vids_vi_t_1",
+        "title": "Mission: Impossible - The Final Reckoning"
     },
     {
-        "name": "Final Destination: Bloodlines",
         "url": "https://www.imdb.com/title/tt9619824/?ref_=chtmvm_t_45",
         "writers": [
             "Guy Busick",
@@ -1865,10 +1864,10 @@
         "description": "Plagued by a recurring violent nightmare, a college student returns home to find the one person who can break the cycle and save her family from the horrific fate that inevitably awaits them.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzc3OWFhZWItMTE2Yy00N2NmLTg1YTktNGVlNDY0ODQ5YjNlXkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi2124662809/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2124662809/?ref_=tt_vids_vi_t_1",
+        "title": "Final Destination: Bloodlines"
     },
     {
-        "name": "The Two Popes",
         "url": "https://www.imdb.com/title/tt8404614/?ref_=chtmvm_t_46",
         "writers": [
             "Anthony McCarten"
@@ -1905,10 +1904,10 @@
         "description": "Behind Vatican walls, the conservative Pope Benedict XVI and the liberal future Pope Francis must find common ground to forge a new path for the Catholic Church.",
         "poster": "https://m.media-amazon.com/images/M/MV5BN2NlYjdkOGEtMGYyOC00MzM5LWE5MzYtYzUyZjE3NTM5NGIyXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.6",
-        "trailer": "https://www.imdb.com/video/vi3033841433/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3033841433/?ref_=tt_vids_vi_t_1",
+        "title": "The Two Popes"
     },
     {
-        "name": "Star Wars: Episode III - Revenge of the Sith",
         "url": "https://www.imdb.com/title/tt0121766/?ref_=chtmvm_t_47",
         "writers": [
             "George Lucas"
@@ -1951,10 +1950,10 @@
         "description": "As the Clone Wars nears its end, Obi-Wan Kenobi pursues a new threat, while Anakin Skywalker is lured by Chancellor Palpatine into a sinister plot for galactic domination.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_.jpg",
         "rating": "7.6",
-        "trailer": "https://www.imdb.com/video/vi1199619865/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1199619865/?ref_=tt_vids_vi_t_1",
+        "title": "Star Wars: Episode III - Revenge of the Sith"
     },
     {
-        "name": "Mufasa: The Lion King",
         "url": "https://www.imdb.com/title/tt13186482/?ref_=chtmvm_t_48",
         "writers": [
             "Jeff Nathanson"
@@ -1995,10 +1994,10 @@
         "description": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjBkOWUwODYtYWI3YS00N2I0LWEyYTktOTJjM2YzOTc3ZDNlXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.6",
-        "trailer": "https://www.imdb.com/video/vi3953117465/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3953117465/?ref_=tt_vids_vi_t_1",
+        "title": "Mufasa: The Lion King"
     },
     {
-        "name": "Twisters",
         "url": "https://www.imdb.com/title/tt12584954/?ref_=chtmvm_t_49",
         "writers": [
             "Mark L. Smith",
@@ -2037,10 +2036,10 @@
         "description": "Kate Carter, a retired tornado-chaser and meteorologist, is persuaded to return to Oklahoma to work with a new team and new technologies.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjM4MWEwMTEtNTcwYi00ZDI4LWEwMzUtNDMzODBhZmI5MWE1XkEyXkFqcGc@._V1_.jpg",
         "rating": "6.5",
-        "trailer": "https://www.imdb.com/video/vi1204864537/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1204864537/?ref_=tt_vids_vi_t_1",
+        "title": "Twisters"
     },
     {
-        "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/?ref_=chtmvm_t_50",
         "writers": [
             "Winnie Holzman",
@@ -2080,10 +2079,10 @@
         "description": "Elphaba, a young woman ridiculed for her green skin, and Galinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.5",
-        "trailer": "https://www.imdb.com/video/vi1818805785/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1818805785/?ref_=tt_vids_vi_t_1",
+        "title": "Wicked"
     },
     {
-        "name": "Tombstone",
         "url": "https://www.imdb.com/title/tt0108358/?ref_=chtmvm_t_51",
         "writers": [
             "Kevin Jarre"
@@ -2124,10 +2123,10 @@
         "description": "A successful lawman's plans to retire anonymously in Tombstone, Arizona, are disrupted by the kind of outlaws he was famous for eliminating.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNmQyMzlhNjUtMzRjYS00MWY4LWI5MDAtZGU1MWE2M2E0OGMxXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.8",
-        "trailer": "https://www.imdb.com/video/vi822527769/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi822527769/?ref_=tt_vids_vi_t_1",
+        "title": "Tombstone"
     },
     {
-        "name": "Last Breath",
         "url": "https://www.imdb.com/title/tt14403504/?ref_=chtmvm_t_52",
         "writers": [
             "Mitchell LaFortune",
@@ -2165,10 +2164,10 @@
         "description": "A true story that follows seasoned deep-sea divers as they battle the raging elements to rescue their crew mate trapped hundreds of feet below the ocean's surface.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYmNjMDg1Y2EtNmZiOS00NGUzLThjZGYtNzU2OGI5M2VkMDFhXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.6",
-        "trailer": "https://www.imdb.com/video/vi1619511577/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1619511577/?ref_=tt_vids_vi_t_1",
+        "title": "Last Breath"
     },
     {
-        "name": "Superman",
         "url": "https://www.imdb.com/title/tt5950044/?ref_=chtmvm_t_53",
         "writers": [
             "Jerry Siegel",
@@ -2208,10 +2207,10 @@
         "description": "Follows the titular superhero as he reconciles his heritage with his human upbringing. He is the embodiment of truth, justice and the human way in a world that views this as old-fashioned.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjFhZmU5NzUtZTg4Zi00ZjRjLWI0YmQtODk2MzI4YjNhYTdkXkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi2092156953/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2092156953/?ref_=tt_vids_vi_t_1",
+        "title": "Superman"
     },
     {
-        "name": "The Monkey",
         "url": "https://www.imdb.com/title/tt27714946/?ref_=chtmvm_t_54",
         "writers": [
             "Osgood Perkins",
@@ -2248,10 +2247,10 @@
         "description": "When twin brothers Bill and Hal find their father's old monkey toy in the attic, a series of gruesome deaths start. The siblings decide to throw the toy away and move on with their lives, growing apart over the years.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzZhMTc5MWUtOTE2MS00MjUwLTljYWEtYTk1ZmVjNzhmMzYzXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.0",
-        "trailer": "https://www.imdb.com/video/vi2468464921/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2468464921/?ref_=tt_vids_vi_t_1",
+        "title": "The Monkey"
     },
     {
-        "name": "The Woman in the Yard",
         "url": "https://www.imdb.com/title/tt31314296/?ref_=chtmvm_t_55",
         "writers": [
             "Sam Stefanak"
@@ -2278,10 +2277,10 @@
         "description": "A mysterious woman repeatedly appears in a family's front yard, often delivering chilling warnings and unsettling messages, leaving them to question her identity, motives and the potential danger she might pose.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNmZjZTA2ZmQtMDhiYS00NTlmLTk2NTctNTZlMzVhZmVjYTYyXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.1",
-        "trailer": "https://www.imdb.com/video/vi3531262233/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3531262233/?ref_=tt_vids_vi_t_1",
+        "title": "The Woman in the Yard"
     },
     {
-        "name": "Him",
         "url": "https://www.imdb.com/title/tt20990442/?ref_=chtmvm_t_56",
         "writers": [
             "Zack Akers",
@@ -2320,10 +2319,10 @@
         "description": "A promising young football player joins an isolated compound to train under a dynasty team's aging quarterback.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYmJkMTAyYzYtZWE0ZC00YjlkLWEyZmYtMjI1NzU4ZWRkNzhmXkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi45336601/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi45336601/?ref_=tt_vids_vi_t_1",
+        "title": "Him"
     },
     {
-        "name": "Heretic",
         "url": "https://www.imdb.com/title/tt28015403/?ref_=chtmvm_t_57",
         "writers": [
             "Scott Beck",
@@ -2359,10 +2358,10 @@
         "description": "Two young religious women are drawn into a game of cat-and-mouse in the house of a strange man.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzFiMWM4YjAtY2Y3Yi00MDIzLTk0N2MtYTAwNGM3ZmMwODhlXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.0",
-        "trailer": "https://www.imdb.com/video/vi2504771097/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2504771097/?ref_=tt_vids_vi_t_1",
+        "title": "Heretic"
     },
     {
-        "name": "Once Upon a Time... in Hollywood",
         "url": "https://www.imdb.com/title/tt7131622/?ref_=chtmvm_t_58",
         "writers": [
             "Quentin Tarantino"
@@ -2399,10 +2398,10 @@
         "description": "As Hollywood's Golden Age is winding down during the summer of 1969, television actor Rick Dalton and his stunt double Cliff Booth endeavor to achieve lasting success in Hollywood while meeting several colorful characters along the way.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzMzNmViNjYtN2ViNi00NDM3LWFlMmItNDYyMGIzY2EzZjE2XkEyXkFqcGc@._V1_.jpg",
         "rating": "7.6",
-        "trailer": "https://www.imdb.com/video/vi1385741849/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1385741849/?ref_=tt_vids_vi_t_1",
+        "title": "Once Upon a Time... in Hollywood"
     },
     {
-        "name": "Jewel Thief: The Heist Begins",
         "url": "https://www.imdb.com/title/tt27843798/?ref_=chtmvm_t_59",
         "writers": [
             "Sumit Arora",
@@ -2439,10 +2438,10 @@
         "description": "A master thief accepts a mission to steal the legendary African Red Sun diamond. What begins as a meticulously planned heist spirals into a dangerous game of double-crosses and shifting loyalties.",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWM5ZGVkNjItZDg0MC00YjIwLTkyNjEtYjdlMGM2Mjc4ODFmXkEyXkFqcGc@._V1_.jpg",
         "rating": "4.1",
-        "trailer": "https://www.imdb.com/video/vi2857224473/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2857224473/?ref_=tt_vids_vi_t_1",
+        "title": "Jewel Thief: The Heist Begins"
     },
     {
-        "name": "The Shawshank Redemption",
         "url": "https://www.imdb.com/title/tt0111161/?ref_=chtmvm_t_60",
         "writers": [
             "Stephen King",
@@ -2480,10 +2479,10 @@
         "description": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
         "rating": "9.3",
-        "trailer": "https://www.imdb.com/video/vi3877612057/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3877612057/?ref_=tt_vids_vi_t_1",
+        "title": "The Shawshank Redemption"
     },
     {
-        "name": "A Real Pain",
         "url": "https://www.imdb.com/title/tt21823606/?ref_=chtmvm_t_61",
         "writers": [
             "Jesse Eisenberg"
@@ -2516,10 +2515,10 @@
         "description": "Mismatched cousins reunite for a tour through Poland to honor their beloved grandmother, but their old tensions resurface against the backdrop of their family history.",
         "poster": "https://m.media-amazon.com/images/M/MV5BODY2YWYwM2YtZTVlNC00MjgyLTgzYTgtNmFmYWE5ZmY1MDM5XkEyXkFqcGc@._V1_.jpg",
         "rating": "7.1",
-        "trailer": "https://www.imdb.com/video/vi2556282393/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2556282393/?ref_=tt_vids_vi_t_1",
+        "title": "A Real Pain"
     },
     {
-        "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/?ref_=chtmvm_t_62",
         "writers": [
             "Brady Corbet",
@@ -2555,10 +2554,10 @@
         "description": "A visionary architect flees post-war Europe in 1947 for a brighter future in the United States and finds his life forever changed by a wealthy client.",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.4",
-        "trailer": "https://www.imdb.com/video/vi988989721/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi988989721/?ref_=tt_vids_vi_t_1",
+        "title": "The Brutalist"
     },
     {
-        "name": "The Legend of Ochi",
         "url": "https://www.imdb.com/title/tt8866456/?ref_=chtmvm_t_63",
         "writers": [
             "Isaiah Saxon"
@@ -2596,10 +2595,10 @@
         "description": "In a remote village on the island of Carpathia, a shy girl is raised to fear an elusive animal species known as ochi. But when she discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWM4MjIxZmQtYzA3YS00YThiLWI5MjItZDM0YjZmNDFhZDA3XkEyXkFqcGc@._V1_.jpg",
         "rating": "6.3",
-        "trailer": "https://www.imdb.com/video/vi1633143065/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1633143065/?ref_=tt_vids_vi_t_1",
+        "title": "The Legend of Ochi"
     },
     {
-        "name": "Fountain of Youth",
         "url": "https://www.imdb.com/title/tt27075958/?ref_=chtmvm_t_64",
         "writers": [
             "James Vanderbilt"
@@ -2635,10 +2634,10 @@
         "description": "Two estranged siblings join forces to seek the legendary Fountain of Youth. Using historical clues, they embark on an epic quest filled with adventure. If successful, the mythical fountain could grant them immortality.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzU0N2IwOTYtY2JkMi00OGE4LTljZGUtYWZlNzJmNGY4OWE5XkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi3233400857/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3233400857/?ref_=tt_vids_vi_t_1",
+        "title": "Fountain of Youth"
     },
     {
-        "name": "The Alto Knights",
         "url": "https://www.imdb.com/title/tt21815562/?ref_=chtmvm_t_65",
         "writers": [
             "Nicholas Pileggi"
@@ -2679,10 +2678,10 @@
         "description": "Two of New York City's most notorious organized crime bosses vie for control of the city's streets. Once best friends, petty jealousies and a series of betrayals set them on a deadly collision course.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTdlY2ZmNmItMjNjMC00YzVkLWEzZDAtYzBiODJkZDRjYWVhXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.7",
-        "trailer": "https://www.imdb.com/video/vi3580807449/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3580807449/?ref_=tt_vids_vi_t_1",
+        "title": "The Alto Knights"
     },
     {
-        "name": "Oppenheimer",
         "url": "https://www.imdb.com/title/tt15398776/?ref_=chtmvm_t_66",
         "writers": [
             "Christopher Nolan",
@@ -2725,10 +2724,10 @@
         "description": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
         "poster": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg",
         "rating": "8.3",
-        "trailer": "https://www.imdb.com/video/vi2053751833/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2053751833/?ref_=tt_vids_vi_t_1",
+        "title": "Oppenheimer"
     },
     {
-        "name": "Interstellar",
         "url": "https://www.imdb.com/title/tt0816692/?ref_=chtmvm_t_67",
         "writers": [
             "Jonathan Nolan",
@@ -2771,10 +2770,10 @@
         "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
         "rating": "8.7",
-        "trailer": "https://www.imdb.com/video/vi1586278169/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1586278169/?ref_=tt_vids_vi_t_1",
+        "title": "Interstellar"
     },
     {
-        "name": "Kraven the Hunter",
         "url": "https://www.imdb.com/title/tt8790086/?ref_=chtmvm_t_68",
         "writers": [
             "Richard Wenk",
@@ -2814,10 +2813,10 @@
         "description": "Kraven's complex relationship with his ruthless father, Nikolai Kravinoff, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDU0YTI5ODAtN2NmMS00YTg3LTgyNDItN2RmOWEzOTkzZjcyXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.5",
-        "trailer": "https://www.imdb.com/video/vi3775907353/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3775907353/?ref_=tt_vids_vi_t_1",
+        "title": "Kraven the Hunter"
     },
     {
-        "name": "Life or Something Like It",
         "url": "https://www.imdb.com/title/tt0282687/?ref_=chtmvm_t_69",
         "writers": [
             "John Scott Shepherd",
@@ -2854,10 +2853,10 @@
         "description": "A reporter interviews a psychic, who tells her that she's going to die and her life is meaningless.",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2I2OWE5ZjgtNjdhMi00NzdiLWFkYmEtMjhhOWJjODljMjc3XkEyXkFqcGc@._V1_.jpg",
         "rating": "5.8",
-        "trailer": "https://www.imdb.com/video/vi2446590745/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2446590745/?ref_=tt_vids_vi_t_1",
+        "title": "Life or Something Like It"
     },
     {
-        "name": "Gladiator",
         "url": "https://www.imdb.com/title/tt0172495/?ref_=chtmvm_t_70",
         "writers": [
             "David Franzoni",
@@ -2900,10 +2899,10 @@
         "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg",
         "rating": "8.5",
-        "trailer": "https://www.imdb.com/video/vi2628367897/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2628367897/?ref_=tt_vids_vi_t_1",
+        "title": "Gladiator"
     },
     {
-        "name": "Den of Thieves: Pantera",
         "url": "https://www.imdb.com/title/tt8008948/?ref_=chtmvm_t_71",
         "writers": [
             "Christian Gudegast",
@@ -2942,10 +2941,10 @@
         "description": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZGIyYTI5N2QtZmQ5ZC00NDE4LThhYWMtNGE5NjI1OGU2M2NjXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.3",
-        "trailer": "https://www.imdb.com/video/vi1741080857/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1741080857/?ref_=tt_vids_vi_t_1",
+        "title": "Den of Thieves: Pantera"
     },
     {
-        "name": "The Godfather",
         "url": "https://www.imdb.com/title/tt0068646/?ref_=chtmvm_t_72",
         "writers": [
             "Mario Puzo",
@@ -2984,10 +2983,10 @@
         "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
         "rating": "9.2",
-        "trailer": "https://www.imdb.com/video/vi1348706585/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1348706585/?ref_=tt_vids_vi_t_1",
+        "title": "The Godfather"
     },
     {
-        "name": "The Odyssey",
         "url": "https://www.imdb.com/title/tt33764258/?ref_=chtmvm_t_73",
         "writers": [
             "Homer",
@@ -3029,10 +3028,10 @@
         "description": null,
         "poster": "https://m.media-amazon.com/images/M/MV5BY2NiMzBiZGMtMmExYi00N2UxLThjYmUtYTE2ODY2NzczZTc2XkEyXkFqcGc@._V1_QL75_UX100_.jpg",
         "rating": "",
-        "trailer": ""
+        "trailer": "",
+        "title": "The Odyssey"
     },
     {
-        "name": "Hell of a Summer",
         "url": "https://www.imdb.com/title/tt21267296/?ref_=chtmvm_t_74",
         "writers": [
             "Billy Bryk",
@@ -3070,10 +3069,10 @@
         "description": "The counselors of a summer camp are terrorized by a masked killer.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzE3MjhmM2QtYmU3ZS00ZDdkLTlkMWMtOTU4MDBiOTI1YzBhXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.5",
-        "trailer": "https://www.imdb.com/video/vi2738457/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2738457/?ref_=tt_vids_vi_t_1",
+        "title": "Hell of a Summer"
     },
     {
-        "name": "Heads of State",
         "url": "https://www.imdb.com/title/tt13357520/?ref_=chtmvm_t_75",
         "writers": [
             "Josh Appelbaum",
@@ -3110,10 +3109,10 @@
         "description": "When the UK Prime Minister and US President become the targets of a foreign adversary, they're forced to rely on one another to thwart a global conspiracy.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYWFmNjg0ZGMtZmI5OC00YTAwLWFiMmMtOWRkNzQ0OTE1YWEwXkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi2511915033/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2511915033/?ref_=tt_vids_vi_t_1",
+        "title": "Heads of State"
     },
     {
-        "name": "How to Train Your Dragon",
         "url": "https://www.imdb.com/title/tt26743210/?ref_=chtmvm_t_76",
         "writers": [
             "Dean DeBlois"
@@ -3150,10 +3149,10 @@
         "description": "As an ancient threat endangers both Vikings and dragons alike on the isle of Berk, the friendship between Hiccup, an inventive Viking, and Toothless, a Night Fury dragon, becomes the key to both species forging a new future together.",
         "poster": "https://m.media-amazon.com/images/M/MV5BODA5Y2M0NjctNWQzMy00ODRhLWE0MzUtYmE1YTAzZjYyYmQyXkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi4026779929/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi4026779929/?ref_=tt_vids_vi_t_1",
+        "title": "How to Train Your Dragon"
     },
     {
-        "name": "Dazed and Confused",
         "url": "https://www.imdb.com/title/tt0106677/?ref_=chtmvm_t_77",
         "writers": [
             "Richard Linklater"
@@ -3190,10 +3189,10 @@
         "description": "The adventures of high school and junior high students on the last day of school in May 1976.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTM5MDY5MDQyOV5BMl5BanBnXkFtZTgwMzM3NzMxMDE@._V1_.jpg",
         "rating": "7.6",
-        "trailer": "https://www.imdb.com/video/vi3349152025/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3349152025/?ref_=tt_vids_vi_t_1",
+        "title": "Dazed and Confused"
     },
     {
-        "name": "Wolf Man",
         "url": "https://www.imdb.com/title/tt4216984/?ref_=chtmvm_t_78",
         "writers": [
             "Leigh Whannell",
@@ -3222,10 +3221,10 @@
         "description": "A family at a remote farmhouse is attacked by an unseen animal, but as the night stretches on, the father begins to transform into something unrecognizable.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYmFkYTNhMWUtMjEyNy00MWE0LWJlYTQtMWFmNDUwNmFjMzAxXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.6",
-        "trailer": "https://www.imdb.com/video/vi2226571545/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2226571545/?ref_=tt_vids_vi_t_1",
+        "title": "Wolf Man"
     },
     {
-        "name": "V for Vengeance",
         "url": "https://www.imdb.com/title/tt15745084/?ref_=chtmvm_t_79",
         "writers": [
             "Steven Paul",
@@ -3263,10 +3262,10 @@
         "description": "After learning that their younger sibling escaped an earlier kidnapping attempt that also killed their parents, two estranged sisters must join forces to rescue her from a group of bloodthirsty vampires.",
         "poster": "https://m.media-amazon.com/images/M/MV5BODBiNTgwM2EtYmNiOS00MzhmLWE3ZDQtMDIxNDQwZGI2ZDRmXkEyXkFqcGc@._V1_.jpg",
         "rating": "4.1",
-        "trailer": "https://www.imdb.com/video/vi3085746713/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3085746713/?ref_=tt_vids_vi_t_1",
+        "title": "V for Vengeance"
     },
     {
-        "name": "Lilo & Stitch",
         "url": "https://www.imdb.com/title/tt11655566/?ref_=chtmvm_t_80",
         "writers": [
             "Chris Kekaniokalani Bright",
@@ -3311,10 +3310,10 @@
         "description": "A lonely Hawaiian girl befriends a runaway alien, helping to mend her fragmented family.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTBmMDBhNWYtNTk4MS00NzBmLTk5ZWItM2ZlZjY4NTYxNWQzXkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi493340953/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi493340953/?ref_=tt_vids_vi_t_1",
+        "title": "Lilo & Stitch"
     },
     {
-        "name": "The Wild Robot",
         "url": "https://www.imdb.com/title/tt29623480/?ref_=chtmvm_t_81",
         "writers": [
             "Chris Sanders",
@@ -3353,10 +3352,10 @@
         "description": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc@._V1_.jpg",
         "rating": "8.2",
-        "trailer": "https://www.imdb.com/video/vi1164822041/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1164822041/?ref_=tt_vids_vi_t_1",
+        "title": "The Wild Robot"
     },
     {
-        "name": "Speak No Evil",
         "url": "https://www.imdb.com/title/tt27534307/?ref_=chtmvm_t_82",
         "writers": [
             "James Watkins",
@@ -3388,10 +3387,10 @@
         "description": "A family is invited to spend a whole weekend in a lonely home in the countryside, but as the weekend progresses, they realize that a dark side lies within the family who invited them.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWI2OWFjNjgtOTQ2Zi00MjlmLTg2MGYtNmE4MjMyZjIzMDA0XkEyXkFqcGc@._V1_.jpg",
         "rating": "6.8",
-        "trailer": "https://www.imdb.com/video/vi1159513625/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1159513625/?ref_=tt_vids_vi_t_1",
+        "title": "Speak No Evil"
     },
     {
-        "name": "Neighborhood Watch",
         "url": "https://www.imdb.com/title/tt1714918/?ref_=chtmvm_t_83",
         "writers": [
             "Sean Farley"
@@ -3426,10 +3425,10 @@
         "description": "When a mentally ill young man thinks he witnesses an abduction and the police refuse to believe him, he reluctantly turns to his next-door neighbor - a bitter, retired security guard - to help him find the missing woman.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZWZjZWViYTUtNmJiNS00Y2Q0LTkyODktMGNkODNkZDRmMjM4XkEyXkFqcGc@._V1_.jpg",
         "rating": "6.1",
-        "trailer": "https://www.imdb.com/video/vi2269235481/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2269235481/?ref_=tt_vids_vi_t_1",
+        "title": "Neighborhood Watch"
     },
     {
-        "name": "Heat",
         "url": "https://www.imdb.com/title/tt0113277/?ref_=chtmvm_t_84",
         "writers": [
             "Michael Mann"
@@ -3470,10 +3469,10 @@
         "description": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_.jpg",
         "rating": "8.3",
-        "trailer": "https://www.imdb.com/video/vi4222353689/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi4222353689/?ref_=tt_vids_vi_t_1",
+        "title": "Heat"
     },
     {
-        "name": "Trap",
         "url": "https://www.imdb.com/title/tt26753003/?ref_=chtmvm_t_85",
         "writers": [
             "M. Night Shyamalan"
@@ -3513,10 +3512,10 @@
         "description": "A father and his teen daughter attend a pop concert only to realize they've entered the center of a dark and sinister event.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzJiN2UyZjgtMjQ3MS00MDhhLTg5ZDItZmVjMTU3MTcwNzE4XkEyXkFqcGc@._V1_.jpg",
         "rating": "5.8",
-        "trailer": "https://www.imdb.com/video/vi152618521/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi152618521/?ref_=tt_vids_vi_t_1",
+        "title": "Trap"
     },
     {
-        "name": "Jurassic World Rebirth",
         "url": "https://www.imdb.com/title/tt31036941/?ref_=chtmvm_t_86",
         "writers": [
             "Michael Crichton",
@@ -3549,10 +3548,10 @@
         "description": "Five years post-Jurassic World Dominion, an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjlmODRkM2YtMDAxOS00ZTA5LTgyYWYtZWI2NjRjMzRkODU0XkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi3122317593/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3122317593/?ref_=tt_vids_vi_t_1",
+        "title": "Jurassic World Rebirth"
     },
     {
-        "name": "The Dark Knight",
         "url": "https://www.imdb.com/title/tt0468569/?ref_=chtmvm_t_87",
         "writers": [
             "Jonathan Nolan",
@@ -3595,10 +3594,10 @@
         "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
         "rating": "9.0",
-        "trailer": "https://www.imdb.com/video/vi324468761/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi324468761/?ref_=tt_vids_vi_t_1",
+        "title": "The Dark Knight"
     },
     {
-        "name": "Moana 2",
         "url": "https://www.imdb.com/title/tt13622970/?ref_=chtmvm_t_88",
         "writers": [
             "Jared Bush",
@@ -3643,10 +3642,10 @@
         "description": "After receiving an unexpected call from her wayfinding ancestors, Moana must journey to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.6",
-        "trailer": "https://www.imdb.com/video/vi3932079641/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3932079641/?ref_=tt_vids_vi_t_1",
+        "title": "Moana 2"
     },
     {
-        "name": "Rogue One: A Star Wars Story",
         "url": "https://www.imdb.com/title/tt3748528/?ref_=chtmvm_t_89",
         "writers": [
             "Chris Weitz",
@@ -3689,10 +3688,10 @@
         "description": "In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire's ultimate weapon of destruction.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_.jpg",
         "rating": "7.8",
-        "trailer": "https://www.imdb.com/video/vi3070869273/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi3070869273/?ref_=tt_vids_vi_t_1",
+        "title": "Rogue One: A Star Wars Story"
     },
     {
-        "name": "The Ugly Stepsister",
         "url": "https://www.imdb.com/title/tt29344903/?ref_=chtmvm_t_90",
         "writers": [
             "Emilie Blichfeldt"
@@ -3732,10 +3731,10 @@
         "description": "Follows Elvira as she battles against her gorgeous stepsister in a realm where beauty reigns supreme. She resorts to extreme measures to captivate the prince, amidst a ruthless competition for physical perfection.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzVjYjk3YjEtMDRiMy00ZjFkLWI5ZmUtMDE1ZDMyYTMxMWUwXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.3",
-        "trailer": "https://www.imdb.com/video/vi1450035481/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1450035481/?ref_=tt_vids_vi_t_1",
+        "title": "The Ugly Stepsister"
     },
     {
-        "name": "Deadpool & Wolverine",
         "url": "https://www.imdb.com/title/tt6263850/?ref_=chtmvm_t_91",
         "writers": [
             "Ryan Reynolds",
@@ -3778,10 +3777,10 @@
         "description": "Deadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_.jpg",
         "rating": "7.6",
-        "trailer": "https://www.imdb.com/video/vi320390681/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi320390681/?ref_=tt_vids_vi_t_1",
+        "title": "Deadpool & Wolverine"
     },
     {
-        "name": "Predator: Killer of Killers",
         "url": "https://www.imdb.com/title/tt36463894/?ref_=chtmvm_t_92",
         "writers": [
             "Micho Robert Rutare",
@@ -3807,10 +3806,10 @@
         "description": null,
         "poster": "https://m.media-amazon.com/images/M/MV5BNDc3MzM2MTYtMzViNi00Y2EwLTk1NDctZWI0MGQ0MDMxYTQ2XkEyXkFqcGc@._V1_.jpg",
         "rating": "",
-        "trailer": "https://www.imdb.com/video/vi2823276825/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2823276825/?ref_=tt_vids_vi_t_1",
+        "title": "Predator: Killer of Killers"
     },
     {
-        "name": "Lolita",
         "url": "https://www.imdb.com/title/tt0119558/?ref_=chtmvm_t_93",
         "writers": [
             "Vladimir Nabokov",
@@ -3849,10 +3848,10 @@
         "description": "An English professor falls for a minor, and has to face the consequences of his actions.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTRmN2FlYjUtOTQyNi00YTA3LWI0Y2YtNDIyMWQ0Y2IwYjhlXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.8",
-        "trailer": "https://www.imdb.com/video/vi883622169/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi883622169/?ref_=tt_vids_vi_t_1",
+        "title": "Lolita"
     },
     {
-        "name": "Love",
         "url": "https://www.imdb.com/title/tt3774694/?ref_=chtmvm_t_94",
         "writers": [
             "Gaspar Noé"
@@ -3888,10 +3887,10 @@
         "description": null,
         "poster": "https://m.media-amazon.com/images/M/MV5BNDg1MTg0ZDgtZTM5Ny00OTFmLWE1OWItNTAzZDgxOWU1YTA2XkEyXkFqcGc@._V1_.jpg",
         "rating": "6.1",
-        "trailer": "https://www.imdb.com/video/vi894677785/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi894677785/?ref_=tt_vids_vi_t_1",
+        "title": "Love"
     },
     {
-        "name": "Sonic the Hedgehog 3",
         "url": "https://www.imdb.com/title/tt18259086/?ref_=chtmvm_t_95",
         "writers": [
             "Pat Casey",
@@ -3936,10 +3935,10 @@
         "description": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched, Team Sonic must seek out an unlikely alliance.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_.jpg",
         "rating": "6.9",
-        "trailer": "https://www.imdb.com/video/vi1805633817/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi1805633817/?ref_=tt_vids_vi_t_1",
+        "title": "Sonic the Hedgehog 3"
     },
     {
-        "name": "Death of a Unicorn",
         "url": "https://www.imdb.com/title/tt28443655/?ref_=chtmvm_t_96",
         "writers": [
             "Alex Scharfman"
@@ -3978,10 +3977,10 @@
         "description": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature's miraculous curative properties.",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjUzMjhkZjktNTU5Mi00MzhmLWJhMTQtZjhkYjczOTEzM2M5XkEyXkFqcGc@._V1_.jpg",
         "rating": "6.1",
-        "trailer": "https://www.imdb.com/video/vi6408473/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi6408473/?ref_=tt_vids_vi_t_1",
+        "title": "Death of a Unicorn"
     },
     {
-        "name": "In the Lost Lands",
         "url": "https://www.imdb.com/title/tt4419684/?ref_=chtmvm_t_97",
         "writers": [
             "Constantin Werner",
@@ -4022,10 +4021,10 @@
         "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWYxYjEyYTUtY2FkZC00Y2QwLTk1ZjMtMTAyMTAyMzQ3MDZiXkEyXkFqcGc@._V1_.jpg",
         "rating": "4.7",
-        "trailer": "https://www.imdb.com/video/vi792250649/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi792250649/?ref_=tt_vids_vi_t_1",
+        "title": "In the Lost Lands"
     },
     {
-        "name": "Scorned",
         "url": "https://www.imdb.com/title/tt0111093/?ref_=chtmvm_t_98",
         "writers": [
             "Karen Kelly",
@@ -4061,10 +4060,10 @@
         "description": null,
         "poster": "https://m.media-amazon.com/images/M/MV5BNGM4MmUzMWItYWQ0Ni00ODlkLWE4YjEtY2FkMzU4ZTI2ODUzXkEyXkFqcGc@._V1_.jpg",
         "rating": "5.2",
-        "trailer": ""
+        "trailer": "",
+        "title": "Scorned"
     },
     {
-        "name": "Winter Spring Summer or Fall",
         "url": "https://www.imdb.com/title/tt24515124/?ref_=chtmvm_t_99",
         "writers": [
             "Dan Schoffer"
@@ -4100,10 +4099,10 @@
         "description": "Remi and Barnes, two very different teenagers, meet by chance in the winter of their senior year, then spend four days together over the course of a year that will change their lives forever.",
         "poster": "https://m.media-amazon.com/images/M/MV5BZmQ2MGRhYWQtZjQ4Ni00Y2EyLWI2OGQtOTYzNDkwZGU1NmI4XkEyXkFqcGc@._V1_.jpg",
         "rating": "6.1",
-        "trailer": "https://www.imdb.com/video/vi2890778905/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi2890778905/?ref_=tt_vids_vi_t_1",
+        "title": "Winter Spring Summer or Fall"
     },
     {
-        "name": "Alien: Romulus",
         "url": "https://www.imdb.com/title/tt18412256/?ref_=chtmvm_t_100",
         "writers": [
             "Dan O'Bannon",
@@ -4141,6 +4140,7 @@
         "description": "While scavenging the deep ends of a derelict space station, a group of young space colonists come face to face with the most terrifying life form in the universe.",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_.jpg",
         "rating": "7.1",
-        "trailer": "https://www.imdb.com/video/vi729007641/?ref_=tt_vids_vi_t_1"
+        "trailer": "https://www.imdb.com/video/vi729007641/?ref_=tt_vids_vi_t_1",
+        "title": "Alien: Romulus"
     }
 ]
