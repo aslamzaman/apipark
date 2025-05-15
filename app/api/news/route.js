@@ -11,7 +11,7 @@ export const GET = async (request) => {
                 title: data[i].title,
                 detail: data[i].detail,
                 poster: data[i].poster,
-                url: data[i].title,
+                url: data[i].url,
                 date: data[i].date,
                 ref: data[i].ref
             });
