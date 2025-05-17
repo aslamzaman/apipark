@@ -1,37 +1,39 @@
-import { getDataFromFirebase } from '@/lib/firebaseFunction';
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
+import { getDataFromFirestoreRedisServer } from '@/lib/firebaseRedisFunctions';
 
 
-export const GET = async (request) => {
+
+export const GET = async (Request) => {
     try {
-        const data = await getDataFromFirebase("news");
-        const result = [];
-        for (let i = 0; i < data.length; i++) {
-            result.push({
-                title: data[i].title,
-                detail: data[i].detail,
-                poster: data[i].poster,
-                url: data[i].url,
-                dt: data[i].dt,
-                cat: data[i].cat,
-                ref: data[i].ref
-            });
-        }
+        const resultResponse = await getDataFromFirestoreRedisServer("news", "news_api");
+     
+        const result = resultResponse.map(item => {
+            delete item.id;
+            delete item.createdAt;
+            return item
+        })
 
-        const response = NextResponse.json(result);
-        response.headers.set('Access-Control-Allow-Origin', '*');
-        response.headers.set('Access-Control-Allow-Methods', 'GET, OPTIONS');
-        response.headers.set('Access-Control-Allow-Headers', 'Content-Type');
-        return response
+       // console.log(resultResponse);
+        return NextResponse.json(result, {
+            headers: {
+                'Access-Control-Allow-Origin': '*',
+                'Access-Control-Allow-Methods': 'GET, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type',
+            }
+        });
+
     } catch (error) {
-        console.log(error);
-        const response = NextResponse.json({
-            message: "An error occurred while fetching data.",
-            data: "",
-        }, { status: 500 });
-        response.headers.set('Access-Control-Allow-Origin', '*');
-        response.headers.set('Access-Control-Allow-Methods', 'GET, OPTIONS');
-        response.headers.set('Access-Control-Allow-Headers', 'Content-Type');
-        return response
+        console.error('Error in GET handler:', error);
+        return NextResponse.json({
+            message: "An error occurred while fetching data",
+            error: error.message
+        }, {
+            status: 500,
+            headers: {
+                'Access-Control-Allow-Origin': '*',
+                'Access-Control-Allow-Methods': 'GET, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type',
+            }
+        });
     }
 }
