@@ -7,8 +7,7 @@ export const GET = async (Request) => {
     try {
         const resultResponse = await getDataFromFirestoreRedisServer("news", "news_api");
      
-        const result = resultResponse.map(item => {
-            delete item.id;
+        const result = resultResponse.map(item => {  
             delete item.createdAt;
             return item
         })
