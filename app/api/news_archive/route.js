@@ -1,17 +1,19 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getDataFromFirestoreRedisServer } from '@/lib/firebaseRedisFunctions';
+import { getDataFromFirestoreArchive } from '@/lib/firebaseRedisFunctions';
 
 
 
 export const GET = async (Request) => {
     try {
-        const resultResponse = await getDataFromFirestoreRedisServer("news", "news_api");
-     
-        const result = resultResponse.map(item => {  
-            delete item.createdAt;
-            return item
-        })
 
+        const searchParams = Request.nextUrl.searchParams;
+        const searchDate = searchParams.get('date');
+
+        const getResult = await getDataFromFirestoreArchive("news", searchDate);
+        const result = getResult.map(item => {
+            delete item.createdAt;
+            return item;
+        });
 
         return NextResponse.json(result, {
             headers: {
