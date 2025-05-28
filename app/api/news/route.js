@@ -5,7 +5,7 @@ import { getDataFromFirestoreRedisServer } from '@/lib/firebaseRedisFunctions';
 
 export const GET = async (Request) => {
     try {
-        const resultResponse = await getDataFromFirestoreRedisServer("news", "news_api");
+        const resultResponse = await getDataFromFirestoreRedisServer("news", "news_api", 10);
      
         const result = resultResponse.map(item => {  
             delete item.createdAt;
